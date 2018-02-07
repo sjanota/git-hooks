@@ -5,7 +5,7 @@
 1. To enable it add following lines to `.gitconfig`
 ```
 [include]
-  path = "~/git-hooks"
+  path = "~/git-hooks/gitconfig"
 ```
 1. Apply one of styles to your repository, for example scala style
 ```
