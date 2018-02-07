@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+./sbt scalafmt::test test:scalafmt::test it:scalafmt::test test it:test

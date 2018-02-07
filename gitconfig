@@ -1,0 +1,2 @@
+[alias]
+    hooks = "!f(){ git config core.hooksPath ~/git-hooks/$1; }; f"
